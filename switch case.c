@@ -7,9 +7,9 @@ int main()
 	scanf("%d",&choice);
 	switch(choice)
 	{
-	case 1:printf("Food item - Pasta\nPrice - Rs 239");
+	case 1:printf("Food item - Pizza\nPrice - Rs 239");
 	    break;
-    case 2:printf("Food item - Burger\nPrice - Rs 129");
+        case 2:printf("Food item - Burger\nPrice - Rs 129");
 	    break;	    
 	case 3:printf("Food item - Pasta\nPrice - Rs 179");
 	    break;	 
